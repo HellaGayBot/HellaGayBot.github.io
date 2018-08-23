@@ -1,0 +1,13 @@
+body {
+  background:#019;
+  color: white;
+  font-family: arial;
+}
+
+a {
+  color: white;
+}
+
+.important {
+  color: red;
+}
