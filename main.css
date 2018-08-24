@@ -2,3 +2,23 @@
     float: none;
     margin: 0 auto;
 }
+.imgback {
+  background-image: url(niceback1.jpg);
+
+  background-size: cover;
+}
+
+.nicecol{
+  background-image: url(bakcol.jpg);
+
+  background-size: cover;
+}
+
+.colol{
+  background-color:	#2c2f33;
+  color: #ffffff;
+}
+
+.co{
+  color: #2c2f33;
+}
