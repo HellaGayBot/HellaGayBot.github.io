@@ -3,9 +3,9 @@
     margin: 0 auto;
 }
 .imgback {
-  background-image: url(niceback1.jpg);
+  background-image: url(wood.jpg);
 
-  background-size: cover;
+  background-size: contain;
 }
 
 .nicecol{
@@ -15,10 +15,15 @@
 }
 
 .colol{
-  background-color:	#363738;
-  color: #cedbe8;
+  background-color:	#ffffff;
+  color: #363738;
 }
 
 .co a{
   color: #2c2f33;
+}
+
+.clo {
+  font-family: sans-serif;
+  font-size: 160%;
 }
