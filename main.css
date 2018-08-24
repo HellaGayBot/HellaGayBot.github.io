@@ -1,10 +1,4 @@
-div.mid{
-  margin-left: auto;
-  margin-right: auto;
-  width: 40em;
-}
-div.midy{
-  margin-left: auto;
-  margin-right: auto;
-  width: 8em;
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
